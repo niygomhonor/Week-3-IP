@@ -1,0 +1,21 @@
+.container{
+    background-image: url("../images/h_img.jpg");
+    
+    background-repeat: no-repeat;
+  
+
+}
+.head-one{
+    text-align: center;
+    color: rgb(214, 214, 213);
+}
+.services{
+    background-image: url("../images/s_image.jpg");
+    
+    background-repeat: no-repeat;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;  
+}

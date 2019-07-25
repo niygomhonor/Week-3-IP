@@ -1,15 +1,49 @@
-.container{
+/* .container{
     background-image: url("../images/h_img.jpg");
     
     background-repeat: no-repeat;
   
 
-}
+} */
 .head-one{
     text-align: center;
-    color: rgb(214, 214, 213);
+    color: rgb(255, 255, 255);
+    position:absolute;
+    top: 48%;
+    width: 100%;
+    font-size: 3rem;
 }
-.services{
+.mouse{
+    position:absolute; 
+   
+    top: 75%;
+    left: 50%;
+ 
+}
+.logo{
+    position:absolute; 
+   
+    top: 35%;
+    left: 50%  
+}
+.desc{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    position:absolute;
+    top: 65%;
+    width: 100%; 
+}
+.banner{
+    position: relative;
+     left: 10%;
+     right: 10%;
+    margin: 0 auto;
+}
+ .banner img{
+     
+
+ }
+/* .services{
     background-image: url("../images/s_image.jpg");
     
     background-repeat: no-repeat;
@@ -18,4 +52,9 @@
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;  
+} */
+.card-img{
+    text-align: center;
+    display: flex;
+justify-content: space-around;
 }

@@ -1,13 +1,10 @@
-body{
+/* body{
     box-shadow: 0 4px 7px 0 rgba(0,0,0,0.5);
-    position: relative;
-    left: 10%;
-    right: 10%;
-    margin:top;
+    position: absolute;
     text-align:center;
     font-family:none;
 
-}
+} */
 .head-one{
     text-align: center;
     color: rgb(255, 255, 255);
@@ -37,26 +34,39 @@ body{
 }
 .banner{
     position: relative;
-     left: 10%;
-     right: 30%;
+     
     margin: 0 auto;
 }
- .banner img{
-    
-
- }
-/* .services{
-    background-image: url("../images/s_image.jpg");
-    
-    background-repeat: no-repeat;
+ 
+ .services{
+    position: relative;
+     
+    margin: 0 auto; 
+} 
+.head-two{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    position:absolute;
+    top: 30%;
+    width: 60%;
+    font-size: 3rem;
+}
+.service-desc{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    position:absolute;
+    top: 65%;
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;  
-} */
+}
+  
+
+
 .card-img{
     text-align: center;
     display: flex;
 justify-content: space-around;
+}
+.portfolio{
+    text-align: center;
+    padding-left: 50px;
 }

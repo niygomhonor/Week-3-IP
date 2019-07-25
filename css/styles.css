@@ -1,16 +1,19 @@
-/* .container{
-    background-image: url("../images/h_img.jpg");
-    
-    background-repeat: no-repeat;
-  
+body{
+    box-shadow: 0 4px 7px 0 rgba(0,0,0,0.5);
+    position: relative;
+    left: 10%;
+    right: 10%;
+    margin:top;
+    text-align:center;
+    font-family:none;
 
-} */
+}
 .head-one{
     text-align: center;
     color: rgb(255, 255, 255);
     position:absolute;
     top: 48%;
-    width: 100%;
+    width: 60%;
     font-size: 3rem;
 }
 .mouse{
@@ -22,7 +25,6 @@
 }
 .logo{
     position:absolute; 
-   
     top: 35%;
     left: 50%  
 }
@@ -36,11 +38,11 @@
 .banner{
     position: relative;
      left: 10%;
-     right: 10%;
+     right: 30%;
     margin: 0 auto;
 }
  .banner img{
-     
+    
 
  }
 /* .services{

@@ -12,7 +12,9 @@
 
  ## Description
 
-
+Delani Studio is one of amazing studio exist in world.
+it is here to provide better services to people to are in need.
+They deal with coding in general.
  
 
  ## Application Installation

@@ -1,12 +1,10 @@
 # Week-3-IP
 
- # Honorine-week2-IP
+ 
+# DELANI STUDIO
 
- # AKHAN-NAME Application
 
- Akhan-name app is going to help people know their exact day of birth and Akhan name basing on Ghana's name.
-
- ####  Developed by 
+ ####  Done by 
 
  ### NIYONKURU Honorine
 
@@ -31,8 +29,8 @@
  |     User's input               |            Expected output                     |
  |--------------------------------|------------------------------------------------|
  |Whwn user enters message        | Then Alert well received message               |
- |When user refused to enter data.| Then Alert him to enter require data           |
- |When user enter unknown data    | Then Alert him/her to enter appropriate data   |
+
+
  
 
  ## Technology used

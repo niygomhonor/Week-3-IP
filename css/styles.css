@@ -72,7 +72,9 @@ width: 100%;
 }
   
 
-
+#w-4,#w-3, #w-2,#w-1,#w-5 #w-6 #w-7 #w-8{
+    display: none;
+}
 .card-img{
     text-align: center;
     display: flex;
@@ -165,7 +167,5 @@ width: 65%;
 }
 .description-a,.description-b,.description-c{
     display: none;
+  
 }
-.row .col-md-3:hover {
-    transform: scale(1.2);
-} 

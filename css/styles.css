@@ -72,9 +72,18 @@ width: 100%;
 }
   
 
-#w-4,#w-3, #w-2,#w-1,#w-5 #w-6 #w-7 #w-8{
+ #w-4,#w-3, #w-2,#w-1, #w-5,#w-6,#w-7,#w-8{ 
     display: none;
+  text-align: center;
+    vertical-align:middle;
+  text-decoration-color: blue;
+    background:#98bf21;
+    height:200px;
+    width:250px;
+    position:relative;
+    margin-left: 30px;
 }
+
 .card-img{
     text-align: center;
     display: flex;

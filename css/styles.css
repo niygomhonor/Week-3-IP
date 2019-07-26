@@ -166,3 +166,6 @@ width: 65%;
 .description-a,.description-b,.description-c{
     display: none;
 }
+.row .col-md-3:hover {
+    transform: scale(1.2);
+} 

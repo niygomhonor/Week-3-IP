@@ -51,7 +51,8 @@ They deal with coding in general.
   -  Facebook:NIYONKURU Neodo Honorine
   -  Slack:NIYONKURU Honorine
            
- ## click to use AKHAN-NAME Application and get your day of born.
+ ## click  below link to navigate it
+ [Delani Studio Over view](https://niygomhonor.github.io/Week-3-IP/)
 
  
 
